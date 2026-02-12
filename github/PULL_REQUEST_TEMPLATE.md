@@ -1,7 +1,7 @@
 
 # PULL REQUEST
 
-## DESCRIÇÂO
+## DESCRIÇÃO
 Explique brevimente o que0 este PR faz e por que é necessário.
 
 ## TIPO DE MUDANÇA
